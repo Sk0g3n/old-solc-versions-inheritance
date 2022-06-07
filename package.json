@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@nomiclabs/hardhat-truffle5": "^2.0.6",
+    "hardhat": "^2.9.7"
+  }
+}
